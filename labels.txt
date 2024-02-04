@@ -1,0 +1,6 @@
+0 cam
+1 metal
+2 kagit
+3 organik
+4 pil
+5 plastik
